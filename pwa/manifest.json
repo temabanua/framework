@@ -3,7 +3,7 @@
   "short_name": "Blogger Template",
   "lang": "en",
   "scope": "https://www.temabanua.com",
-  "start_url": "https://www.temabanua.com",
+  "start_url": "/?utm_source=homescreen",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#323232",
@@ -25,8 +25,8 @@
     "sizes": "167x167",
     "type": "image/png"
   }, {
-    "src": "https://cdn.temabanua.com/image/temabanua-icon-180x.png",
-    "sizes": "180x180",
+    "src": "https://cdn.temabanua.com/image/temabanua-icon-512x.png",
+    "sizes": "512x512",
     "type": "image/png"
   }]
 }

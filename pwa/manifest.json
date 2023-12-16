@@ -2,7 +2,7 @@
   "name": "Temabanua",
   "short_name": "Blogger Template",
   "lang": "en",
-  "scope": "https://www.temabanua.com",
+  "scope": "/",
   "start_url": "/?utm_source=homescreen",
   "display": "standalone",
   "background_color": "#fff",
